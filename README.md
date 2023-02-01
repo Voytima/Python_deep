@@ -1,1 +1,1 @@
-# Python_deep
+# GB python advanced course
