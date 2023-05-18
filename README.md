@@ -437,5 +437,5 @@
   
   
       
-# All the tasts were made by myself. Some of solutions might be a little bit weird, but I'm still a student ;)
+# All the tasks were made by myself. Some of solutions might be a bit weird, but I'm still a student ;)
       
